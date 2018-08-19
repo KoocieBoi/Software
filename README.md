@@ -1,33 +1,16 @@
 > hello and welcome to this page. i'm bored.
 
-|  Software name  |  <a href="https://ninite.com">Ninite Available</a>  |  <a href="https://chocolatey.org">Chocolatey Available</a>  |  Official Download |  Category  |
-| :-------------: | :----------------: | :--------------------: | :-----------------:| :--------: |
-| Google Chrome | yes | <a href="https://chocolatey.org/packages/GoogleChrome">yes</a> | <a href="https://www.google.com/chrome/">click</a> | Browsers |
-| Opera | yes | <a href="https://chocolatey.org/packages/Opera">yes</a> | <a href="https://www.opera.com/">click</a> | Browsers |
-| Discord | yes | <a href="https://chocolatey.org/packages/discord">yes</a> | <a href="https://discordapp.com">click</a> | Chat |
-| Visual Studio Code | yes | <a href="https://chocolatey.org/packages/vscode">yes</a> | <a href="https://code.visualstudio.com">click</a> | Editors |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|      Software name       | <a href="https://ninite.com">Ninite Available</a> |             <a href="https://chocolatey.org">Chocolatey Available</a>             |                                Official Download                                 |   Category   |
+| :----------------------: | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :----------: |
+|      Google Chrome       |                        yes                        |          <a href="https://chocolatey.org/packages/GoogleChrome">yes</a>           |                <a href="https://www.google.com/chrome/">click</a>                |   Browsers   |
+|          Opera           |                        yes                        |              <a href="https://chocolatey.org/packages/Opera">yes</a>              |                    <a href="https://www.opera.com/">click</a>                    |   Browsers   |
+|         Discord          |                        yes                        |             <a href="https://chocolatey.org/packages/discord">yes</a>             |                    <a href="https://discordapp.com">click</a>                    |     Chat     |
+| League of Legends (EUNE) |                        no                         | <a href="https://chocolatey.org/packages/leagueoflegends">yes, seems outdated</a> | <a href="https://signup.eune.leagueoflegends.com/en/signup/redownload">click</a> |    Games     |
+|           osu!           |                        no                         |               <a href="https://chocolatey.org/packages/osu">yes</a>               |               <a href="https://osu.ppy.sh/home/download">click</a>               |    Games     |
+|          Steam           |                        yes                        |              <a href="https://chocolatey.org/packages/steam">yes</a>              |            <a href="https://store.steampowered.com/about/">click</a>             |    Games     |
+|          7-Zip           |                        yes                        |              <a href="https://chocolatey.org/packages/7zip">yes</a>               |                    <a href="https://www.7-zip.org">click</a>                     |     Misc     |
+|          ShareX          |                        yes                        |             <a href="https://chocolatey.org/packages/sharex">yes</a>              |                    <a href="https://getsharex.com">click</a>                     |     Misc     |
+|        Windscribe        |                        no                         |           <a href="https://chocolatey.org/packages/windscribe">yes</a>            |               <a href="https://windscribe.com/download">click</a>                |     Misc     |
+|         Spotify          |                        yes                        |             <a href="https://chocolatey.org/packages/spotify">yes</a>             |                   <a href="https://www.spotify.com">click</a>                    |    Music     |
+|        Notepad++         |                        yes                        |         <a href="https://chocolatey.org/packages/notepadplusplus">yes</a>         |                <a href="https://notepad-plus-plus.org">click</a>                 | Text Editors |
+|    Visual Studio Code    |                        yes                        |             <a href="https://chocolatey.org/packages/vscode">yes</a>              |                <a href="https://code.visualstudio.com">click</a>                 | Text Editors |
