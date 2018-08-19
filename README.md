@@ -1,3 +1,5 @@
+**CLOSED. 'll be moved to the wiki.**
+
 > hello and welcome to this page. i'm bored.
 
 |      Software name       | <a href="https://ninite.com">Ninite Available</a> |             <a href="https://chocolatey.org">Chocolatey Available</a>             |                                Official Download                                 |   Category   |
